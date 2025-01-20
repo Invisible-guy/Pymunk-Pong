@@ -11,4 +11,4 @@ The physics are enabled by a physics engine pymunk, which automatically do thing
 This is just a place to see where pymunk is an applicable physics engine, then you can help me expand on this small project to make everyone's life sweeter!
 
 ### Contributors
-- Infernal Bluebbery/Invisible-guy(what is displayed on public idk)
+- Infernal Bluebbery/Invisible-guy
